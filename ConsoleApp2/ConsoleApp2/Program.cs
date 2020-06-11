@@ -33,6 +33,7 @@ namespace ConsoleApp2
             Console.WriteLine("the highest number in the array is {0}", max);
             Console.WriteLine("the lowest numbe in the array is {0}", min);
             Console.WriteLine("good bye and see you again");
+            Console.WriteLine("good bye and not see you again");
 
         }
     }
